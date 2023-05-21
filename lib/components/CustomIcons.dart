@@ -1,0 +1,12 @@
+// ignore_for_file: file_names
+import 'package:flutter/widgets.dart';
+
+class CustomIcons {
+  CustomIcons._();
+
+  static const _kFontFam = 'CustomIcons';
+  static const String? _kFontPkg = null;
+
+  static const IconData favicon =
+      IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+}

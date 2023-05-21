@@ -1,0 +1,273 @@
+{
+	"ALL": {
+		"about": "A propos",
+		"home": "Accueil",
+		"works": "Projets",
+		"contact": "Contactez moi",
+		"context": "Contexte",
+		"steps": "Etapes",
+		"demo": "Démo"
+	},
+	"ABOUT": {
+		"titles": {
+			"experiences": "Expériences",
+			"education": "Formation",
+			"skills": "Compétences"
+		},
+		"introduction": "Hello, moi c’est Inès, diplômée de l’Ecole Nationale Supérieure de Cognitique.\nLa Cognitique c'est l’association de l’analyse du comportement humain et des sciences fondamentales, c’est une discipline qui permet de concevoir des technologies pensées et adaptées pour l’humain.\nAu sein de cette école j’ai appris les points clés de la gestion de projet et particulièrement l’importance du Facteur Humain et donc des méthodes de Conception Centrée Utilisateur et d’UX Design. J’ai également approfondi mes connaissances en programmation et découvert d’autres domaines d’activité comme l’intelligence artificielle.\nCette formation pluridisciplinaire a fait de moi une personne polyvalente capable de travailler sur des sujets très différents.\n\nEn tant que développeuse et UX Designer, je suis passionnée par la création de produits numériques élégants et innovants qui offrent une excellente expérience utilisateur. J'ai une grande passion pour la technologie et je suis constamment à la recherche de nouvelles façons de créer des solutions intelligentes et efficaces.\n\nMon intérêt pour le développement depuis toute petite m'a permis d'acquérir une expérience pratique avec des technologies telles que HTML, CSS, JavaScript, C#, Vue, Flutter et Firebase entre autres. Grâce à ces compétences, je suis capable de créer des applications , des logiciels et des sites web qui sont à la fois fonctionnels et esthétiquement plaisants. De plus, mes compétences en UX design me permettent de concevoir des expériences utilisateur qui rendent l'utilisation de ces applications agréable et intuitive.\n\nJ'ai travaillé sur une variété de projets. Chaque projet a été une occasion pour moi de mettre mes compétences en développement et en conception en pratique tout en relevant des défis créatifs. En tant que personne passionnée et engagée, je suis toujours à la recherche de nouvelles opportunités pour améliorer mes compétences et mes connaissances digitales. Je suis également à l'aise avec la communication, ce qui me permet de travailler en étroite collaboration avec les membres de mon équipe et les clients pour répondre à leurs besoins spécifiques.",
+		"experiences": {
+			"LIM": {
+				"title": "Stage d'UX Design",
+				"missions": "Itération UX\nAjout de nouvelles fonctionnalités\nMaquettage\nDéveloppement d'une application support de test\nTests Utilisateur",
+				"tools": "Flutter, Firebase, GitHub, Photoshop, Illustrator"
+			},
+			"TEHTRIS": {
+				"title": "Stage puis Emploi de Développeur Front-end",
+				"missions": "Iteration UX\nAmélioration d'une vue 3D existante\nMaintenance de la plateforme\nDeveloppement de nouvelles features",
+				"tools": "Vue.js, Node.js, GitLab"
+			}
+		},
+		"education": {
+			"LR": {
+				"date": "2016",
+				"degree": "Baccalauréat Scientifique Section Européenne Espagnol Mention Très Bien"
+			},
+			"POITIERS": {
+				"date": "2016 - 2019",
+				"association": "2 ans pôle animation de l'Association des Etudiants en Pharmacie de Poitiers",
+				"degree": "Diplôme de Formation Générale en Sciences Pharmaceutiques",
+				"internship": "Stage de 2ᵉ année en pharmacie\nStage de 3ᵉ année en pharmacie"
+			},
+			"BORDEAUX": {
+				"date": "2019 - 2022",
+				"association": "2 ans pôle évènements du Parlement des Etudiants de Bordeaux\n1 an Junior Entreprise Ingéniérie et Conseil en Cognitique",
+				"degree": "Diplôme d'Ingénieur Cogniticien",
+				"internship": "Stage UX Design chez LIM Group\n Stage Developpeur Front-end chez TEHTRIS",
+				"international": "Erasmus à Malaga en Espagne"
+			}
+		},
+		"skills": {
+			"levels": {
+				"2": "Notions basiques",
+				"3": "Notions approfondies",
+				"4": "Technologie maîtrisée"
+			}
+		}
+	},
+	"WORKS": {
+		"title": "Quelques Projets"
+	},
+	"PROJECTS": {
+		"HORSESAFE": {
+			"date": "2020",
+			"subtitle": "Surveillance des chevaux",
+			"supports": "Application",
+			"technologies": "Flutter, Firebase, Google Maps",
+			"time": "3 mois",
+			"title": "HorseSafe",
+			"type": "Ecole",
+			"link": "",
+			"context": "Ce projet a été réalisé pendant la période où les mutilations des chevaux se multipliaient et les propriétaires organisaient des rondes pour s’assurer que leurs chevaux allaient bien.\nAfin de faciliter leur tâche, nous avons réalisé cette application qui permet d’enregistrer facilement leurs rondes et de visualiser les localisations des actes de mutilation et des comportements suspects.\nPour avoir accès à ces informations, un système de sécurité considérable a été mis en place.",
+			"etapes": {
+				"search": {
+					"title": "Recherche",
+					"content": "Ce projet a débuté avec la recherche d’informations, à la fois sur les problèmes existants et sur les solutions mises en place pour tenter d’y faire face.\nLes problèmes concernaient les mutilations faites aux chevaux et en amont, les comportements ou éléments suspects qui laissaient présager une attaque.\nLes solutions misent en place par les propriétaires d’équidés et sympathisants furent d’organiser des rondes de surveillance et de créer des groupes a accès restreint sur les réseaux sociaux pour permettre de partager les informations importantes."
+				},
+				"features": {
+					"title": "Fonctionnalités",
+					"content": "Pour cerner au mieux les besoins des futurs utilisateurs, nous avons fait passer un questionnaire, lequel nous a permis de mieux connaître l’organisation des rondes et des moyens déployés pour la surveillance, avec leurs points positifs et négatifs.\nDe ces résultats, nous avons pu définir une liste des fonctionnalités, et les classer selon les 3 grandes catégories de notre application : un système de sécurité important, un partage des informations vérifiées et une carte de visualisation des rondes et des incidents.",
+					"media": "HorseSafe3"
+				},
+				"mockups": {
+					"title": "Maquettes",
+					"media": "HorseSafe2"
+				},
+				"tests": {
+					"title": "Tests Utilisateurs",
+					"content": "Nous avons ensuite confronté nos maquettes aux utilisateurs avec un scénario de test exhaustif afin de balayer la totalité de l’application. Les sujets ont été choisis de manière à représenter tous les persona définis préalablement.\nLes maquettes ont été modifiées en conséquence.",
+					"media": "HorseSafe1"
+				},
+				"development": {
+					"title": "Développement",
+					"content": "Vient ensuite le temps du développement, l’application est cross-plateforme et utilise Google Maps pour la localisation et Firebase pour la base de données ainsi que pour une partie de l’authentification."
+				}
+			}
+		},
+		"LIVIA": {
+			"date": "2021",
+			"subtitle": "Site vitrine d’écurie",
+			"supports": "Web",
+			"technologies": "HTML, CSS, JavaScript",
+			"time": "1 mois",
+			"title": "Livia Sabatier",
+			"type": "Personnel",
+			"link": "https://livia-e7284.web.app/",
+			"context": "Ce projet a été fait pour une connaissance qui vient de monter sa structure et qui avait besoin d’augmenter sa visibilité pour attirer de nouveaux clients.",
+			"etapes": {
+				"search": {
+					"title": "Recherche",
+					"content": "Pour commencer, il a fallu trouver quelles étaient les informations que recherchent les potentiels clients d’un centre équestre et quels éléments pouvaient être ajoutés pour démarquer ce site des autres. L’architecture du site a pu être établie à l’aide de ces éléments."
+				},
+				"identity": {
+					"title": "Création Identité Visuelle",
+					"media": "Livia1"
+				},
+				"mockups": {
+					"title": "Maquettes",
+					"media": "Livia2"
+				},
+				"visibility": {
+					"title": "Visibilité",
+					"content": "La visibilité du site a été augmentée grâce à l’attention portée au SEO (avec une analyse des mots clés principalement utilisés lors des recherches) et la création d’une fiche google business avec le maximum d'informations pour les futurs clients. (Ce n'est plus d'actualité car le site n'est plus référencé pour cessation d'activité)"
+				}
+			}
+		},
+		"ISPORT": {
+			"date": "2021",
+			"subtitle": "Tests Utilisateur automatisés",
+			"supports": "Web\nApplication",
+			"technologies": "Flutter, Firebase",
+			"time": "3 mois",
+			"title": "iSport",
+			"type": "Travail",
+			"link": "https://isport-23b65.web.app/#/",
+			"context": "L’objectif de cette application était d’en faire un support de tests utilisateur à distance afin de tester les différentes versions de la nouvelle interface (avec un traitement des résultats).\nCeci permet de toucher plus de monde et de gagner du temps. Si bien que dans cette application il y a la partie interfaces avec différentes versions et la partie gestion des tests avec les scénarii et l’enregistrement des actions et résultats des sujets.\nLes résultats obtenus ont pour but de déterminer quelle version de l'interface est la meilleure. En parallèle, le reste de l’application a été modifié et enrichi avec de nouvelles fonctionnalités et une gamification mais ces éléments sont malheureusement confidentiels.",
+			"etapes": {
+				"search": {
+					"title": "Recherche",
+					"content": "Ce projet a commencé avec l’audit de l’application existante et la recherche de nouveaux indicateurs pertinents pour les utilisateurs.\nDeux versions de l’interface ont été réalisées et il a fallu trouver un moyen de les tester, pour cela un scénario de test a été intégré à l’application pour qu'elle puisse servir directement de support de tests utilisateur."
+				},
+				"mockups": {
+					"title": "Maquettes",
+					"media": "iSport1"
+				},
+				"web": {
+					"title": "Adaptation Web",
+					"content": "Pour pouvoir diffuser l’application de test à plus grande échelle, elle a été adaptée pour le web, ainsi le lien a pu être diffusé sur les différents canaux de communication de l'entreprise et l’application a servi pour faire passer des tests sur les terrains de concours, entre autres."
+				},
+				"analysis": {
+					"title": "Analyse",
+					"content": "Grâce à la partie traitement des résultats directement intégrée à l’application, nous avons pu déterminer quels éléments fonctionnaient le mieux et quels soucis pouvaient rencontrer les utilisateurs.\nCe qui nous a permis de garder les meilleurs éléments de chacune des 2 interfaces et de résoudre les problèmes rencontrés par les utilisateurs.",
+					"media": "iSport2"
+				}
+			}
+		},
+		"HP": {
+			"date": "2019",
+			"subtitle": "Plateforme de Quizz thématique",
+			"supports": "Web",
+			"technologies": "HTML, CSS, SQL, PHP",
+			"time": "2 mois",
+			"title": "Harry PotTest",
+			"type": "Ecole",
+			"link": "",
+			"context": "Ce projet a servi pour l’évaluation du module Développement Web, l’énoncé nous demandait de faire une plateforme de quiz dynamique avec un mode administrateur intégré.",
+			"etapes": {
+				"search": {
+					"title": "Recherche",
+					"content": "Pour ce projet nous devions trouver un thème de plateforme puis réfléchir à l’organisation générale de cette plateforme (difficulté, évolution, mode administrateur), ainsi que constituer une banque de données de questions."
+				},
+				"mockups": {
+					"title": "Maquettes & Développement",
+					"media": "HPottest1"
+				},
+				"tests": {
+					"title": "Tests Utilisateurs",
+					"content": "Nous avons fait passer des tests utilisateurs à distance après le déploiement du site pour s’assurer de son ergonomie et de son bon fonctionnement.\nNous avons modifié le site selon les résultats de ces tests."
+				}
+			}
+		},
+		"SUPERHEROES": {
+			"date": "2022",
+			"subtitle": "Site présentation de superhéros",
+			"supports": "Web",
+			"technologies": "Vue, JavaScript",
+			"time": "1 mois",
+			"title": "Superheroes",
+			"type": "Travail",
+			"link": "https://superheroes-68421.web.app/#/",
+			"context": "Ce projet a été réalisé lors de mon arrivée dans l'entreprise, c'est l'exercice donné à tous les nouveaux arrivants.",
+			"etapes": {
+				"instructions": {
+					"title": "Consignes",
+					"content": "Voici la liste des fonctionnalités attendues pour cet exercice :\n- Page/onglet “Dashboard” : présente les héros enregistrés en favoris.\n- Page/onglet “Heroes” : affiche la liste de tous les héros (idéalement avec une pagination et un bouton permettant de récupérer davantage de héros depuis l’API).\n- Cliquer sur un héro (dans n’importe quel onglet) affiche dans une vue (page, modal ou autre) les détails de ce dernier.\n- Dans cette vue, ajouter des boutons afin de pouvoir éditer les données existantes et les enregistrer (nom, description, image, etc.) ou bien les “reset”.\n- Afficher automatiquement les héros sur la page “Dashboard” lors de leur enregistrement en favoris.\n- Possibilité d’ajouter / de supprimer un héros.\n- Notifier l’utilisateur si le changement a bien été pris en compte ou si une erreur est survenue.\n- Utilisation d’i18n afin de pouvoir changer la langue (EN/FR attendu).\n- Afficher les héros sous deux formats différents : liste ou carte.\n- Fonction de recherche / filtrage dans une barre de recherche.\n- Fonction de trie par nom/id.\n- Possibilité de choisir le nombre de résultats par page."
+				},
+				"mockups": {
+					"title": "Maquettes",
+					"media": "Superheroes1"
+				},
+				"development": {
+					"title": "Développement",
+					"content": "J’ai commencé l’exercice des héros par l’intégration de l’interface (le front-end), puis je me suis occupée de la récupération des héros (le back-end) via l’API Marvel (en tenant compte des limitations liées à cette API). J’ai synchronisé ces 2 parties terminées. Ensuite j’ai ajouté d’autres fonctionnalités (comme le drag and drop pour changer les images par exemple) et j’ai terminé par la traduction de l’application en différentes langues (français, anglais et espagnol) grâce à i18n."
+				}
+			}
+		},
+		"LAETI": {
+			"date": "2023",
+			"subtitle": "Systeme d'alertes pour compétitions",
+			"supports": "Web\nApplication",
+			"technologies": "Flutter, Firebase, Node, JavaScript",
+			"time": "2 mois",
+			"title": "Inespecteur Laeti",
+			"type": "Personnel",
+			"link": "https://inespecteur-laeti.web.app/#/",
+			"context": "J'ai créé cette application pour permettre à mon entourage et moi-même d'avoir plus facilement accès à des places lors des compétitions d'équitation via des alertes.",
+			"etapes": {
+				"features": {
+					"title": "Fonctionnalités",
+					"content": "Pour commencer, il a fallu trouver quelles étaient les informations que nous voulions retrouver sur l'application et quelle était la liste des fonctionnalités souhaitées.\nPour cela, j'ai fait passer un questionnaire à mon entourage et l’architecture de l'application a pu être établie à l’aide de ces éléments.",
+					"media": "Laeti1"
+				},
+				"mockups": {
+					"title": "Maquettes",
+					"media": "Laeti2"
+				},
+				"development": {
+					"title": "Développement",
+					"content": "Le développement s'est déroulé en 2 parties tout d'abord la partie webscrapping pour aller récupérer les données des compétitions sur le site de la FFE (cette partie a été intégrée dans la fonction firebase).\nEt ensuite le développement de l'application liée à la base de donnée et aux fonctions Firebase."
+				},
+				"improvements": {
+					"title": "Améliorations",
+					"content": "Voici la liste des améliorations qui doivent et qui vont être apportées à l'application :\n- Ajouter des comptes utilisateurs\n- Ajouter un refresh avec un loader\n- Pouvoir modifier la fréquence de vérification des alertes directement de l'application\n- Supprimer automatique un concours passé."
+				}
+			}
+		},
+
+		"POPIT": {
+			"date": "2023",
+			"subtitle": "Bubble todo list",
+			"supports": "Application",
+			"technologies": "Flutter, Firebase",
+			"time": "3 mois",
+			"title": "Pop It",
+			"type": "Personnel",
+			"link": "https",
+			"video": true,
+			"context": "J'ai créé cette application car je voulais une to-do list ludique pour me motiver à effectuer les taches que j'ai à faire",
+			"etapes": [
+				{
+					"title": "Recherche",
+					"content": "Pour commencer, il a fallu trouver quelles étaient les informations que recherchent les potentiels clients d’un centre équestre et quels éléments pouvaient être ajoutés pour démarquer ce site des autres. L’architecture du site a pu être établie à l’aide de ces éléments."
+				},
+				{
+					"title": "Création Identité Visuelle",
+					"content": "Pour cerner au mieux les besoins des futurs utilisateurs nous avons fait passer un questionnaire, lequel nous a permis de mieux connaître l’organisation des rondes et des moyens déployés pour la surveillance, avec leurs points positifs et négatifs.\nDe ces résultats nous avons pu définir une liste des fonctionnalités, et les classer selon les 3 grandes catégories de notre application : un système de sécurité important, un partage des informations vérifiées et une carte de visualisation des rondes et des incidents.",
+					"media": "HorseSafe3"
+				},
+				{
+					"title": "Maquettes",
+					"media": "HorseSafe2"
+				},
+				{
+					"title": "Développement",
+					"content": "Nous avons ensuite confronté nos maquettes aux utilisateurs avec un scénario de test exhaustif afin de balayer la totalité de l’application. Les sujets ont été choisis de manière à représenter tous les persona définis préalablement.\nLes maquettes ont été modifiées en conséquence.",
+					"media": "HorseSafe1"
+				},
+				{
+					"title": "Visibilité",
+					"content": "Vient ensuite le temps du développement, l’application est cross-plateforme et utilise Google Maps pour la localisation et Firebase pour la base de données ainsi que pour une partie de l’authentification."
+				}
+			]
+		}
+	}
+}
