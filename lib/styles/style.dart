@@ -3,12 +3,19 @@ import 'package:auto_size_text_pk/auto_size_text_pk.dart';
 
 // ignore: non_constant_identifier_names
 List<Color> COLORS = [
+  Color.fromARGB(255, 121, 198, 200),
+  Color.fromARGB(255, 0, 123, 110),
+  Color.fromARGB(255, 3, 63, 66),
+  Color.fromARGB(255, 200, 87, 25),
+  Color.fromARGB(255, 253, 185, 121),
+  Color.fromARGB(255, 165, 147, 120),
+  /*
   Colors.lightGreen.shade800,
   Colors.amber.shade800,
   Colors.red.shade900,
   Colors.purple.shade900,
   Colors.indigo.shade800,
-  Colors.cyan.shade700
+  Colors.cyan.shade700*/
 ];
 
 const Padding copyright = Padding(

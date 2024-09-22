@@ -14,17 +14,17 @@
 			"education": "Formación",
 			"skills": "Competencias"
 		},
-		"introduction": "Hola, soy Inès, diplomada de la Ecole Nationale Supérieure de Cognitique. \nLa cognitica es la asociación del análisis del comportamiento humano y de las ciencias fundamentales, es una disciplina que permite el diseño de tecnologías pensadas y adaptadas para los humanos.\nTambién profundicé mis conocimientos en programación y descubrí otros campos de actividad como la inteligencia artificial.Esta formación multidisciplinar me convirtió en una persona polivalente capaz de trabajar en temas muy diferentes.\nComo desarrollador y UX Designer, me apasiona crear productos digitales elegantes e innovadores que ofrezcan una excelente experiencia de usuario. \nTengo una gran pasión por la tecnología y estoy constantemente buscando nuevas formas de crear soluciones inteligentes y eficaces.\n\nMi interés por el desarrollo desde una edad temprana me ha dado experiencia práctica con tecnologías como HTML, CSS, JavaScript, C#, Vue, Flutter y Firebase entre otras. Con estas habilidades, soy capaz de crear aplicaciones, software y sitios web que son funcionales y estéticamente agradables. Además, mis habilidades de diseño UX me permiten diseñar experiencias de usuario que hacen que el uso de estas aplicaciones sea agradable e intuitivo.He trabajado en una variedad de proyectos. Cada proyecto ha sido una oportunidad para mí de poner en práctica mis habilidades de desarrollo y diseño mientras superaba retos creativos.\n\nComo persona apasionada y comprometida, siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y conocimientos digitales. También me siento cómoda con la comunicación, lo que me permite trabajar en estrecha colaboración con los miembros de mi equipo y los clientes para satisfacer sus necesidades específicas.",
+		"introduction": "Hola, soy Inès, diplomada de la Ecole Nationale Supérieure de Cognitique. \nLa cognitica qué es ? Es la asociación del análisis del comportamiento humano y de las ciencias fundamentales, es una disciplina que permite el diseño de tecnologías pensadas y adaptadas para los humanos.\nTambién profundicé mis conocimientos en programación y descubrí otros campos de actividad como la inteligencia artificial.Esta formación multidisciplinar me convirtió en una persona polivalente capaz de trabajar en temas muy diferentes y estoy constantemente buscando nuevas formas de crear soluciones inteligentes y eficaces.\n\nMi interés por el desarrollo desde una edad temprana me ha dado experiencia práctica con tecnologías como HTML, CSS, JavaScript, C#, Vue, Flutter y Firebase entre otras. Con estas habilidades, soy capaz de crear aplicaciones, software y sitios web que son funcionales y estéticamente agradables. Además, mis habilidades de diseño UX me permiten diseñar experiencias de usuario que hacen que el uso de estas aplicaciones sea agradable e intuitivo.He trabajado en una variedad de proyectos. Cada proyecto ha sido una oportunidad para mí de poner en práctica mis habilidades de desarrollo y diseño mientras superaba retos creativos.\n\nSiempre estoy buscando nuevas oportunidades para mejorar mis habilidades y conocimientos digitales. También me siento cómoda con la comunicación, lo que me permite trabajar en estrecha colaboración con los miembros de mi equipo y los clientes para satisfacer sus necesidades específicas.",
 		"experiences": {
 			"LIM": {
-				"title": "Prácticas de diseño UX",
+				"title": "Diseño UX",
 				"missions": "Iteración UX\nAñadir nuevas funcionalidades\nMaquetas\nDesarrollo de una aplicación de apoyo a las pruebas\nPruebas con usuarios",
 				"tools": "Flutter, Firebase, GitHub, Photoshop, Illustrator"
 			},
 			"TEHTRIS": {
-				"title": "Prácticas y empleo como Desarrollador Front End",
+				"title": "Desarrollador Front End",
 				"missions": "Interacción UX\nMejora de una vista 3D existente\nMantenimiento de la plataforma\nDesarrollo de nuevas funciones",
-				"tools": "Vue.js, Node.js, GitLab"
+				"tools": "Vue.js, Node.js, GitLab, Storybook"
 			}
 		},
 		"education": {

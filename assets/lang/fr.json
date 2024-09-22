@@ -14,17 +14,17 @@
 			"education": "Formation",
 			"skills": "Compétences"
 		},
-		"introduction": "Hello, moi c’est Inès, diplômée de l’Ecole Nationale Supérieure de Cognitique.\nLa Cognitique c'est l’association de l’analyse du comportement humain et des sciences fondamentales, c’est une discipline qui permet de concevoir des technologies pensées et adaptées pour l’humain.\nAu sein de cette école j’ai appris les points clés de la gestion de projet et particulièrement l’importance du Facteur Humain et donc des méthodes de Conception Centrée Utilisateur et d’UX Design. J’ai également approfondi mes connaissances en programmation et découvert d’autres domaines d’activité comme l’intelligence artificielle.\nCette formation pluridisciplinaire a fait de moi une personne polyvalente capable de travailler sur des sujets très différents.\n\nEn tant que développeuse et UX Designer, je suis passionnée par la création de produits numériques élégants et innovants qui offrent une excellente expérience utilisateur. J'ai une grande passion pour la technologie et je suis constamment à la recherche de nouvelles façons de créer des solutions intelligentes et efficaces.\n\nMon intérêt pour le développement depuis toute petite m'a permis d'acquérir une expérience pratique avec des technologies telles que HTML, CSS, JavaScript, C#, Vue, Flutter et Firebase entre autres. Grâce à ces compétences, je suis capable de créer des applications , des logiciels et des sites web qui sont à la fois fonctionnels et esthétiquement plaisants. De plus, mes compétences en UX design me permettent de concevoir des expériences utilisateur qui rendent l'utilisation de ces applications agréable et intuitive.\n\nJ'ai travaillé sur une variété de projets. Chaque projet a été une occasion pour moi de mettre mes compétences en développement et en conception en pratique tout en relevant des défis créatifs. En tant que personne passionnée et engagée, je suis toujours à la recherche de nouvelles opportunités pour améliorer mes compétences et mes connaissances digitales. Je suis également à l'aise avec la communication, ce qui me permet de travailler en étroite collaboration avec les membres de mon équipe et les clients pour répondre à leurs besoins spécifiques.",
+		"introduction": "Hello, moi c’est Inès, diplômée de l’Ecole Nationale Supérieure de Cognitique.\nLa Cognitique qu'est ce que c'est ? C'est l’association de l’analyse du comportement humain et des sciences fondamentales, c’est une discipline qui permet de concevoir des technologies pensées et adaptées pour l’humain.\nAu sein de cette école j’ai appris l’importance du Facteur Humain et donc des méthodes de Conception Centrée Utilisateur et d’UX Design. J’ai également approfondi mes connaissances en programmation et découvert d’autres domaines d’activité comme l’intelligence artificielle.\nCette formation pluridisciplinaire a fait de moi une personne polyvalente capable de travailler sur des sujets très différents et je suis constamment à la recherche de nouvelles façons de créer des solutions intelligentes et efficaces.\n\nMon intérêt pour le développement depuis toute petite m'a permis d'acquérir une expérience pratique avec des technologies telles que HTML, CSS, JavaScript, C#, Vue, Flutter et Firebase entre autres. Grâce à ces compétences, je suis capable de créer des applications , des logiciels et des sites web qui sont à la fois fonctionnels et esthétiquement plaisants. De plus, mes compétences en UX design me permettent de concevoir des expériences utilisateur qui rendent l'utilisation de ces applications agréable et intuitive.\n\nJ'ai travaillé sur une large variété de projets. Chaque projet a été une occasion pour moi de mettre mes compétences en développement et en conception en pratique tout en relevant des défis créatifs. Je suis toujours à la recherche de nouvelles opportunités pour améliorer mes compétences et mes connaissances digitales. Je suis également à l'aise avec la communication, ce qui me permet de travailler en étroite collaboration avec les membres de mon équipe et les clients pour répondre à leurs besoins spécifiques.",
 		"experiences": {
 			"LIM": {
-				"title": "Stage d'UX Design",
+				"title": "UX Design",
 				"missions": "Itération UX\nAjout de nouvelles fonctionnalités\nMaquettage\nDéveloppement d'une application support de test\nTests Utilisateur",
 				"tools": "Flutter, Firebase, GitHub, Photoshop, Illustrator"
 			},
 			"TEHTRIS": {
-				"title": "Stage puis Emploi de Développeur Front-end",
+				"title": "Développeur Front-end",
 				"missions": "Iteration UX\nAmélioration d'une vue 3D existante\nMaintenance de la plateforme\nDeveloppement de nouvelles features",
-				"tools": "Vue.js, Node.js, GitLab"
+				"tools": "Vue.js, Node.js, GitLab, Storybook"
 			}
 		},
 		"education": {
@@ -42,8 +42,8 @@
 				"date": "2019 - 2022",
 				"association": "2 ans pôle évènements du Parlement des Etudiants de Bordeaux\n1 an Junior Entreprise Ingéniérie et Conseil en Cognitique",
 				"degree": "Diplôme d'Ingénieur Cogniticien",
-				"internship": "Stage UX Design chez LIM Group\n Stage Developpeur Front-end chez TEHTRIS",
-				"international": "Erasmus à Malaga en Espagne"
+				"internship": "Stage UX Design chez LIM Group\nStage Developpeur Front-end chez TEHTRIS",
+				"international": "Erasmus à Malaga (Espagne)"
 			}
 		},
 		"skills": {

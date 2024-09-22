@@ -25,8 +25,8 @@ List<String> chartTitles = [
   'Design',
   'Front-End',
   'Back-End',
-  'Mobile',
-  'Desktop'
+  'Langages C',
+  'Mobile'
 ];
 
 List<List<ChartData>> chartData = [
@@ -54,8 +54,8 @@ List<List<ChartData>> chartData = [
     ChartData('SQL', 3),
     ChartData('PHP', 2)
   ],
-  [ChartData('Flutter', 4), ChartData('React Native', 2)],
-  [ChartData('C#', 3), ChartData('C++', 3), ChartData('C', 2)]
+  [ChartData('C#', 3), ChartData('C++', 3), ChartData('C', 2)],
+  [ChartData('Flutter', 4), ChartData('React Native', 2)]
 ];
 
 double getWidth(context) {

@@ -14,17 +14,17 @@
 			"education": "Education",
 			"skills": "Skills"
 		},
-		"introduction": "Hello, I'm Ines, graduate of the Ecole Nationale Supérieure de Cognitique.\nCognitics is the association of human behavior analysis and fundamental sciences, it's a discipline that allows to design technologies thought and adapted for humans.I also deepened my knowledge in programming and discovered other fields of activity such as artificial intelligence.\nThis multidisciplinary training made me a versatile person able to work on very different subjects.\n\nAs a developer and UX Designer, I am passionate about creating elegant and innovative digital products that offer an excellent user experience. I have a strong passion for technology and am constantly looking for new ways to create smart and effective solutions.\n\nMy interest in development since a young age has given me hands-on experience with technologies such as HTML, CSS, JavaScript, C#, Vue, Flutter and Firebase among others. With these skills, I am able to create applications, software and websites that are both functional and aesthetically pleasing. In addition, my UX design skills allow me to design user experiences that make the use of these applications enjoyable and intuitive.I have worked on a variety of projects. Each project has been an opportunity for me to put my development and design skills to use while meeting creative challenges. As a passionate and committed person, I am always looking for new opportunities to improve my digital skills and knowledge. I am also comfortable with communication, which allows me to work closely with my team members and clients to meet their specific needs.",
+		"introduction": "Hello, I'm Ines, graduate of the Ecole Nationale Supérieure de Cognitique.\nWhat is Cognitics ? It's the association of human behavior analysis and fundamental sciences, it's a discipline that allows to design technologies thought and adapted for humans.I also deepened my knowledge in programming and discovered other fields of activity such as artificial intelligence.\nThis multidisciplinary training made me a versatile person able to work on very different subjects and I am constantly looking for new ways to create smart and effective solutions.\n\nMy interest in development since a young age has given me hands-on experience with technologies such as HTML, CSS, JavaScript, C#, Vue, Flutter and Firebase among others. With these skills, I am able to create applications, software and websites that are both functional and aesthetically pleasing. In addition, my UX design skills allow me to design user experiences that make the use of these applications enjoyable and intuitive.I have worked on a variety of projects. Each project has been an opportunity for me to put my development and design skills to use while meeting creative challenges. I am always looking for new opportunities to improve my digital skills and knowledge. I am also comfortable with communication, which allows me to work closely with my team members and clients to meet their specific needs.",
 		"experiences": {
 			"LIM": {
-				"title": "UX Design internship",
+				"title": "UX Design",
 				"missions": "UX Interation\nAdding new features\nMaquetting\nDeveloping a test support application\nUser testing",
 				"tools": "Flutter, Firebase, GitHub, Photoshop, Illustrator"
 			},
 			"TEHTRIS": {
-				"title": "Internship then Front-end Developer Job",
+				"title": "Front-end Developer",
 				"missions": "UX Interation\nImprovement of an existing 3D view\nMaintenance of the platform\nDevelopment of new features",
-				"tools": "Vue.js, Node.js, GitLab"
+				"tools": "Vue.js, Node.js, GitLab, Storybook"
 			}
 		},
 		"education": {
